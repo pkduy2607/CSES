@@ -1,0 +1,10 @@
+# 1. Bỏ qua toàn bộ các thư mục sinh ra bởi Code::Blocks hoặc compiler
+bin/
+obj/
+
+# 2. Bỏ qua file project của Code::Blocks
+*.cbp
+
+# 3. Bỏ qua các file thực thi (executable) nếu lỡ bị biên dịch ra ngoài (Windows/Linux)
+*.exe
+*.out
