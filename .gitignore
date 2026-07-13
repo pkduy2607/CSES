@@ -4,6 +4,7 @@ obj/
 
 # 2. Bỏ qua file project của Code::Blocks
 *.cbp
+*.layout
 
 # 3. Bỏ qua các file thực thi (executable) nếu lỡ bị biên dịch ra ngoài (Windows/Linux)
 *.exe
