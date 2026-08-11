@@ -9,3 +9,4 @@ obj/
 # 3. Bỏ qua các file thực thi (executable) nếu lỡ bị biên dịch ra ngoài (Windows/Linux)
 *.exe
 *.out
+IntroductoryProblems.depend
